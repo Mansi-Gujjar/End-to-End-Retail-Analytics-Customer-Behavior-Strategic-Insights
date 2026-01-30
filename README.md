@@ -1,14 +1,12 @@
 # 🛒 End-to-End Retail Analytics: Consumer Behavior & Strategic Insights
 
-<p align="center">
-  <img src="images/work flow.png" width="850">
-</p>
-
-
 In a competitive retail landscape, understanding **why** a customer makes a purchase is just as important as **what** they purchase.  
 This project delivers a **full-stack retail analytics solution**, transforming raw transactional data into **actionable, executive-level insights**.
 
 Built as an industry-aligned analytics workflow, the project bridges **data engineering, business analysis, and strategic decision-making**.
+<p align="center">
+  <img src="images/work flow.png" width="850">
+</p>
 
 ---
 
@@ -32,6 +30,10 @@ These insights are designed to help a retail firm **optimize marketing, pricing,
 ---
 
 ## 🛠️ Analytics Workflow: The Three-Pillar Approach
+<p align="center">
+  <img src="images/customer shopping.png" width="850">
+</p>
+
 
 This project follows a **real-world, end-to-end data analytics pipeline**.
 
