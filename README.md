@@ -1,7 +1,7 @@
 # 🛒 End-to-End Retail Analytics: Consumer Behavior & Strategic Insights
 
 <p align="center">
-  <img src="images/workflow.png" width="850">
+  <img src="images/work flow.png" width="850">
 </p>
 
 
