@@ -1,5 +1,10 @@
 # 🛒 End-to-End Retail Analytics: Consumer Behavior & Strategic Insights
 
+<p align="center">
+  <img src="images/workflow.png" width="850">
+</p>
+
+
 In a competitive retail landscape, understanding **why** a customer makes a purchase is just as important as **what** they purchase.  
 This project delivers a **full-stack retail analytics solution**, transforming raw transactional data into **actionable, executive-level insights**.
 
