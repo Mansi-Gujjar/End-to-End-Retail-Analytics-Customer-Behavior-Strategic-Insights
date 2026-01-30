@@ -5,8 +5,9 @@ This project delivers a **full-stack retail analytics solution**, transforming r
 
 Built as an industry-aligned analytics workflow, the project bridges **data engineering, business analysis, and strategic decision-making**.
 <p align="center">
-  <img src="images/work flow.png" width="850">
+  <img src="images/customer shopping.png" width="850">
 </p>
+
 
 ---
 
@@ -31,7 +32,7 @@ These insights are designed to help a retail firm **optimize marketing, pricing,
 
 ## 🛠️ Analytics Workflow: The Three-Pillar Approach
 <p align="center">
-  <img src="images/customer shopping.png" width="850">
+  <img src="images/work flow.png" width="850">
 </p>
 
 
