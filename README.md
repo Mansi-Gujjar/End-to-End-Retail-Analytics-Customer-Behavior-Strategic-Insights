@@ -116,3 +116,17 @@ Based on the analysis, the following **high-impact strategies** were proposed:
 
 ## 📂 Repository Structure
 
+📁 End-to-End-Retail-Analytics
+│
+├── 📘 Customer_Shopping_Behavior_Analysis.ipynb
+│ └─ Python ETL, cleaning, feature engineering & EDA
+│
+├── 🗄️ customer_behavior_sql_queries.sql
+│ └─ Business-driven SQL queries & segmentation logic
+│
+├── 📊 customer_behavior_dashboard.pbix
+│ └─ Interactive Power BI executive dashboard
+│
+└── 📄 Project_Documentation.pdf
+└─ Detailed technical and business insights report
+
